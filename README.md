@@ -1,6 +1,7 @@
 # Youtube-music-database
 
 ![YouTube Music](https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg)
+
 Creates a csv file database for any playlist on youtube
 
 Especially helpful for sharing and creating database of "Liked Songs" on YouTube Music, since the playlist which is created by "liking" the music (on YouTube Music app or website) is not public.
